@@ -25,7 +25,7 @@ A lightweight web-based honeypot monitoring system that tracks connection attemp
 1. Clone the repository:
 ```bash
 git clone https://github.com/MrTwizzy/Honey-Watch.git
-cd Honey-Watch
+cd Honeypot
 ```
 
 2. Install required packages:
